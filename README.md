@@ -1,2 +1,2 @@
 # EmptyCanvas
-empty project 4 an Springboot&Anuglar microService 
+empty project 4 an Springboot&Angular microService 
